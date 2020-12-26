@@ -1,0 +1,16 @@
+paket  com.company ;
+
+ kelas  publik soal3 {
+    public  static  void  main ( String [] args ) {
+        int a =  5 ;
+        untuk ( int i =  1 ; i <= a; i ++ ) {
+            untuk ( int j = a; j > = i; j - ) {
+                jika (i <  3 ) {
+                    Sistem . keluar . cetak (i);
+            } lainnya
+                    Sistem . keluar . cetak ( 3 );
+            }
+            Sistem . keluar . println ();
+        }
+    }
+}
