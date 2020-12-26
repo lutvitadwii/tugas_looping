@@ -1,0 +1,14 @@
+paket  com.company ;
+
+kelas  soal4 {
+    public  static  void  main ( String [] args ) {
+        int a =  5 ;
+        untuk ( int i =  1 ; i <= a; i ++ ) {
+            untuk ( int j = i; j <= a; j ++ )
+            {
+                Sistem . keluar . cetak (j +  "  " );
+            }
+            Sistem . keluar . println ();
+        }
+    }
+}
