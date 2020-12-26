@@ -1,0 +1,15 @@
+paket  com.company ;
+
+ kelas  publik soal1 {
+    public  static  void  main ( String [] args ) {
+        untuk ( int i =  1 ; i <=  4 ; i ++ ) {
+            untuk ( int x =  0 ; x <=  4 ; x ++ ) {
+                jika (x ==  0  || x ==  2  || x ==  4 ) {
+                    Sistem . keluar . cetak ( " X " );
+                } lainnya
+                    Sistem . keluar . cetak ( " 0 " );
+            }
+            Sistem . keluar . println ();
+        }
+    }
+}
